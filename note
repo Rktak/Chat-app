@@ -1,0 +1,23 @@
+we have use npm i nodemon --save-dev
+for the dev
+
+
+websocket allow for dull-duplex communication
+client connect to server and as long as it stay with it
+ web soket is a separate protocol form HTTP
+persistent connection between client and server
+
+
+-- connection is bidirectional
+
+to work with it we use socket.io library 
+
+
+// bad-words library
+we have use bad-words library to not send the bad word in the chat
+ 
+//momentjs 
+used to display the time from the default number
+
+
+
